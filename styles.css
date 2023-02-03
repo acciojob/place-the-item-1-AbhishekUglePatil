@@ -2,7 +2,7 @@ body {
 	margin : 0px;
 	padding : 0px;
 }
-.container{
+.holder{
 	background-color: lightblue;
 	padding: 0px;
 	display: flex;
@@ -15,7 +15,9 @@ body {
 	height : 30px;
 	color : darkgreen;
 	background-color: pink;
-	
+	display : flex;
+	align-items : center;
+	justify-content : center;
 	
 	
 }
